@@ -18,21 +18,4 @@
 
 ---
 
-## 01 // WHOAMI
 
-```console
-┌──(rintaro㉿cyber-lab)-[~]
-└─$ whoami
-
-rintaro
-
-┌──(rintaro㉿cyber-lab)-[~]
-└─$ cat profile.txt
-
-Name        : Rintaro
-Focus       : Cybersecurity / Ethical Hacking
-Currently   : Learning • Building • Breaking • Rebuilding
-OS          : Linux
-Languages   : Python • Bash
-Mindset     : Curiosity > Ego
-Status      : ███████████████░░░ 87%
