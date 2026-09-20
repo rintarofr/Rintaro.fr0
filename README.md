@@ -36,3 +36,70 @@ OS          : Linux
 Languages   : Python • Bash
 Mindset     : Curiosity > Ego
 Status      : ███████████████░░░ 87%
+
+              ╭──────────────────────────────╮
+              │       CYBER LAB // 07        │
+              ├──────────────────────────────┤
+              │                              │
+              │  [✓] Linux Fundamentals     │
+              │  [✓] Networking              │
+              │  [✓] Git / GitHub            │
+              │  [~] Web Security             │
+              │  [~] Python Automation        │
+              │  [~] CTFs                     │
+              │  [~] Pentesting               │
+              │  [ ] Active Directory         │
+              │  [ ] Privilege Escalation     │
+              │  [ ] Red Team Operations      │
+              │                              │
+              ╰──────────────────────────────╯
+
+                    RINTARO.exe
+                        │
+              ┌─────────┴─────────┐
+              │                   │
+          OFFENSE              DEFENSE
+              │                   │
+       ┌──────┼──────┐      ┌─────┼─────┐
+       │      │      │      │     │     │
+      WEB    NET    CTF    LINUX  LOGS  HARDENING
+       │      │      │      │     │     │
+      ██     ███    ██     ███   ██    █
+┌────────────────────────────────────────────────────┐
+│                    LAB DATABASE                    │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  [01] Linux playground              ONLINE         │
+│  [02] Networking experiments        ONLINE         │
+│  [03] Python security scripts       BUILDING       │
+│  [04] Web security labs             BUILDING       │
+│  [05] CTF writeups                  ACTIVE         │
+│  [06] Home cyber lab                INITIALIZING   │
+│                                                    │
+└────────────────────────────────────────────────────┘
+while True:
+
+    learn()
+    experiment()
+    break_things_in_the_lab()
+    understand_why()
+    build_again()
+
+    if something_fails:
+        read_the_documentation()
+        try_again()
+
+<div align="center"> <a href="https://github.com/Rintaro"> <img src="https://img.shields.io/badge/GitHub-0d0d14?style=for-the-badge&logo=github&logoColor=00e5ff"/> </a>
+<br><br>
+
+╔══════════════════════════════════════════════╗
+║                                              ║
+║     SIGNAL: ONLINE                           ║
+║     SYSTEM: LEARNING                         ║
+║     MISSION: UNDERSTAND EVERYTHING           ║
+║                                              ║
+║     see you on the other side of the shell.  ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:16002b,100:090014&height=120&section=footer"/> </div> ```
