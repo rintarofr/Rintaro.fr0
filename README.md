@@ -12,7 +12,7 @@
 
 <br><br>
 
-[ CYBERSECURITY STUDENT ] // [ ETHICAL HACKER ] // [ UK ]
+
 
 </div>
 
