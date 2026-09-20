@@ -1,30 +1,38 @@
 <div align="center">
 
-<!-- Professional Typing Animation -->
-<a href="https://github.com/Rintaro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E_Hello,+I'm+Rintaro;%3E_Cybersecurity+Student+%26+Ethical+Hacker;%3E_Specializing+in+Penetration+Testing;%3E_Securing+systems+through+offensive+research..." alt="Typing Effect" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:16002b,100:00e5ff&height=220&section=header&text=RINTARO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%2F%20ETHICAL%20HACKING&descAlignY=58&descSize=16" width="100%"/>
 
-# Rintaro
-**Ethical Hacker | Cybersecurity Analyst in Training**
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=%5B+BOOTING+CYBER+LAB...+%5D;%5B+ACCESS+GRANTED+%5D;%3E+ETHICAL+HACKING+%2F+CYBERSECURITY;%3E+LEARNING+HOW+SYSTEMS+BREAK;%3E+LEARNING+HOW+TO+MAKE+THEM+STRONGER;%3E+NEVER+STOP+ENUMERATING..." alt="Typing SVG"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM_USER)
-[![Email](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@domain.com)
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker&theme=dark" />
+
+<br><br>
+
+`[ CYBERSECURITY STUDENT ]` &nbsp; `//` &nbsp; `[ ETHICAL HACKER ]` &nbsp; `//` &nbsp; `[ UK ]`
 
 </div>
 
 ---
 
-### 🛡️ System Profile
+## `01 // WHOAMI`
 
-```bash
-$ whoami
-> Rintaro
+```console
+┌──(rintaro㉿cyber-lab)-[~]
+└─$ whoami
 
-$ cat /etc/motd
-> I am a Cybersecurity student focused on ethical hacking, vulnerability assessment, 
-> and network infrastructure. Passionate about offensive security research and 
-> understanding system architecture to build better defenses.
+rintaro
+
+┌──(rintaro㉿cyber-lab)-[~]
+└─$ cat profile.txt
+
+Name        : Rintaro
+Focus       : Cybersecurity / Ethical Hacking
+Currently   : Learning • Building • Breaking • Rebuilding
+OS          : Linux
+Languages   : Python • Bash
+Mindset     : Curiosity > Ego
+Status      : ███████████████░░░ 87%
